@@ -1,3 +1,18 @@
 {
-  "files": {}
+  "files": {
+    "Trabalho2/EstruturaVetores.c": [
+      {
+        "id": "9ab4cdd2-35d0-444f-9c4c-bd7f537e0dc9",
+        "line": 85,
+        "version": 6089,
+        "index": 1618
+      },
+      {
+        "id": "78d1e269-e530-4dc4-aef8-eee3db5547aa",
+        "line": 206,
+        "version": 6089,
+        "index": 5103
+      }
+    ]
+  }
 }
