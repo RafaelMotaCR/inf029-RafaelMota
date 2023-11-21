@@ -23,7 +23,6 @@ conforme a Figura	 1. Deve haver uma estrutura principal de 10 posições fixas.
 deve apontar para outras estruturas auxiliares de tamanhos variados que contém números.
 
 Status: Concluído com sucesso! ☑️
-
 ## 
 
 
