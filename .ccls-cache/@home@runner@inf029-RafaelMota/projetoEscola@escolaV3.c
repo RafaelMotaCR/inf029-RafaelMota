@@ -2,7 +2,6 @@
 // Objetivo: Controlar o funcionamento de uma Escola.
 // Criadores: Ana Ruth, Deivison Cassimiro, Julio santos, Rafael Mota 
 
-
 # define maximo 6
 # include "escolaV3.h"
 
