@@ -7,7 +7,7 @@
 
 // Função principal/Main
 
-void main(void){
+int main(){
 
   // Declaração de variàveis
 
@@ -427,4 +427,5 @@ void main(void){
       }
       iteracao = 1;
     }
+    return 0;
 }
